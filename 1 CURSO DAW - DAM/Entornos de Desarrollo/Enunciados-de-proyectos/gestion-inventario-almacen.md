@@ -1,0 +1,9 @@
+# Gestión de inventario de un almacén
+
+> El objetivo de este proyecto es diseñar y construir una aplicación robusta para la **gestión de inventario de almacén**. Esta solución busca ser adaptable para diversas empresas que manejan sistemas de almacenaje de productos, desde una pequeña tienda de componentes informáticos hasta una gran cadena de supermercados con múltiples ubicaciones dedicadas al almacenamiento.
+> 
+> La aplicación permitirá a los **empleados** del almacén registrar la **entrada y salida de productos**, consultar el **estado actual del inventario** y **reportar incidencias**, como productos dañados o caducados. Un subconjunto de empleados, denominados **revisores**, tendrá la capacidad adicional de realizar **inspecciones** para verificar la exactitud del inventario. En caso de detectarse cualquier discrepancia o error, el sistema deberá generar y enviar una **notificación de alerta** de manera inmediata.
+> 
+> Los **administradores** del sistema contarán con permisos superiores. Podrán **agregar nuevos productos** al inventario, **modificar los niveles mínimos** de existencias para cada artículo y **generar reportes de inventario en tiempo real**. La aplicación deberá integrarse con el **sistema de pedidos** de la empresa para generar **alertas automáticas** cuando el stock de un producto descienda por debajo de su nivel mínimo establecido, facilitando así la reposición proactiva.
+>
+> Una característica fundamental del sistema es su capacidad para ser **rápido, seguro y accesible desde dispositivos móviles**, lo que permitirá su uso eficiente directamente dentro de las instalaciones del almacén. Además, todos los usuarios de la aplicación tendrán la posibilidad de **buscar productos en el inventario** utilizando diversos criterios como su tipo, nombre o referencia.

@@ -1,0 +1,9 @@
+# Gestión de reservas de una biblioteca
+
+> El objetivo de este proyecto es diseñar y construir una aplicación integral para la gestión de reservas de una biblioteca. Esta herramienta es fundamental para una empresa privada que busca establecer una biblioteca especializada, con la intención de competir con las bibliotecas públicas. Su oferta no solo incluirá el préstamo de libros, sino también de discos, películas y revistas, además de la posibilidad de gestionar eventos exclusivos para sus socios dentro de sus instalaciones.
+> 
+> La aplicación permitirá a los usuarios, clasificados como estudiantes, profesores y bibliotecarios, interactuar con el sistema de diversas maneras. Los estudiantes y profesores deberán poder buscar artículos en el catálogo de la biblioteca, realizar reservas y consultar el estado de sus préstamos actuales. Dentro del rol de profesor, algunos tendrán la designación de jefes de departamento y contarán con la capacidad adicional de marcar ciertos títulos del catálogo como "importantes para el departamento", lo que podría influir en su visibilidad o disponibilidad.
+>
+> Por su parte, los bibliotecarios tendrán permisos para agregar nuevos artículos al catálogo, registrar los préstamos que se realicen y configurar la generación de notificaciones automáticas para recordar a los usuarios las fechas de devolución de los materiales prestados.
+> 
+> El sistema debe ser accesible desde cualquier dispositivo con conexión a internet para garantizar su comodidad y usabilidad. Una funcionalidad crucial será la capacidad de gestionar multas aplicables por retrasos en la devolución de los artículos. Es fundamental que la arquitectura del sistema se conciba de tal manera que permita futuras extensiones, facilitando la adición de nuevos tipos de materiales como discos o revistas, los cuales, aunque posean características propias, deberán ser susceptibles de préstamo y reserva bajo el mismo marco de gestión.
